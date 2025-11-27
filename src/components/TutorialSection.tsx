@@ -43,7 +43,7 @@ export function TutorialSection() {
               playsInline
               className="rounded-lg"
             >
-              <source src="../../public/report_tuto.mov" />
+              <source src="/report_tuto.mov" />
               Your browser does not support the video tag.
             </video>
           </div>
